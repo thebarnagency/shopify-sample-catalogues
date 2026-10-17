@@ -3,7 +3,7 @@
 Realistic, fictional sample catalogues for Shopify development stores. Each store has products,
 variants, metafields, collections, navigation menus and images, so you can test a theme, an app
 or a workflow against a store that looks lived in. Everything here is data: CSV files, a setup
-guide and a brand brief per store, with the images hosted on this repo's Releases.
+guide and a brand brief per store, with the images hosted on this repo's GitHub Pages.
 
 ## Stores
 
@@ -36,7 +36,7 @@ does not clear anything first.
    tested with Claude Code and Shopify's plugin for it. Paste its first two prompts: connect, then
    create the metafield definitions (so the import fills typed fields).
 4. Go to **Products > Import**, choose `products.csv` and import it. Shopify fetches the images
-   from this repo's Release in the background, so they appear within a few minutes.
+   from this repo's GitHub Pages in the background, so they appear within a few minutes.
 5. Back in the guide, paste the prompts for collections and menus.
 
 No AI assistant? `products.csv` imports on its own, and `products-rich.csv`,
@@ -46,8 +46,9 @@ up by hand.
 ## Images
 
 Every image is a product shot, still life or colour swatch. There are no people and no
-packaging text. Each Release has one file per image (named
-`<vertical>--<product-handle>--<slot>.webp`) and one zip per store.
+packaging text. The CSVs link each image on this repo's GitHub Pages (the `gh-pages` branch,
+`images/<version>/<vertical>--<product-handle>--<slot>.webp`), and each Release has one zip of
+images per store.
 
 The images were generated locally with ComfyUI, using FLUX.1 [schnell], FLUX.2 [klein] 4B
 (both Apache 2.0) and, for upscaling where used, 4x_NMKD-Superscale. Those licences allow the
