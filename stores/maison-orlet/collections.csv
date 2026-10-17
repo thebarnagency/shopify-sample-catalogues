@@ -1,0 +1,11 @@
+handle,title,kind,match,rules,sort_order,description
+new-in,New In,smart,all,TAG EQUALS new-in,created_desc,
+womens,Womens,manual,,,created_desc,
+mens,Mens,manual,,,created_desc,
+bags,Bags,manual,,,created_desc,
+shoes,Shoes,manual,,,created_desc,
+knitwear,Knitwear,manual,,,created_desc,
+home-objects,Home & Objects,manual,,,created_desc,"Ceramics, furniture and textiles, made in small runs with independent workshops."
+collaborations,Collaborations,manual,,,created_desc,"Pieces made with potters, weavers and printmakers we admire."
+exclusives,Exclusives,smart,all,TAG EQUALS exclusive,created_desc,
+gifts-under-500,Gifts Under £500,smart,all,VARIANT_PRICE LESS_THAN 500,price_asc,

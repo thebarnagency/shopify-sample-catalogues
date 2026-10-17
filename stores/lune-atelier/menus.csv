@@ -1,0 +1,13 @@
+menu_handle,menu_title,position,title,link_type,target
+main-menu,Main menu,1,Bestsellers,collection,bestsellers
+main-menu,Main menu,2,Makeup,url,#
+main-menu,Main menu,2.1,All makeup,collection,makeup
+main-menu,Main menu,2.2,Lips,collection,lips
+main-menu,Main menu,2.3,Brows,collection,brows
+main-menu,Main menu,3,Skincare,collection,skincare
+main-menu,Main menu,4,Fragrance,collection,fragrance
+main-menu,Main menu,5,Sets,collection,sets
+footer,Footer menu,1,Under £20,collection,under-20
+footer,Footer menu,2,Shop all,catalog,
+footer,Footer menu,3,Search,search,
+footer,Footer menu,4,Your Privacy Choices,url,/pages/data-sharing-opt-out

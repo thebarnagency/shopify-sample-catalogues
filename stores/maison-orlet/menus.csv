@@ -1,0 +1,15 @@
+menu_handle,menu_title,position,title,link_type,target
+main-menu,Main menu,1,New In,collection,new-in
+main-menu,Main menu,2,Womens,collection,womens
+main-menu,Main menu,3,Mens,collection,mens
+main-menu,Main menu,4,Bags,collection,bags
+main-menu,Main menu,5,Shoes,collection,shoes
+main-menu,Main menu,6,Knitwear,collection,knitwear
+main-menu,Main menu,7,Objects,url,#
+main-menu,Main menu,7.1,Home & Objects,collection,home-objects
+main-menu,Main menu,7.2,Collaborations,collection,collaborations
+main-menu,Main menu,7.3,Gifts Under £500,collection,gifts-under-500
+footer,Footer menu,1,Exclusives,collection,exclusives
+footer,Footer menu,2,Shop all,catalog,
+footer,Footer menu,3,Search,search,
+footer,Footer menu,4,Your Privacy Choices,url,/pages/data-sharing-opt-out

@@ -1,0 +1,9 @@
+handle,title,kind,match,rules,sort_order,description
+makeup,Makeup,manual,,,created_desc,
+skincare,Skincare,manual,,,created_desc,
+lips,Lips,manual,,,created_desc,
+brows,Brows,manual,,,created_desc,
+fragrance,Fragrance,manual,,,created_desc,
+sets,Sets,manual,,,created_desc,Duos and kits that cost less than buying each piece on its own.
+bestsellers,Bestsellers,smart,all,TAG EQUALS bestseller,best_selling,
+under-20,Under £20,smart,all,VARIANT_PRICE LESS_THAN 20,price_asc,

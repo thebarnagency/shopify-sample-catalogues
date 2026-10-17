@@ -1,0 +1,8 @@
+owner,namespace,key,name,type,description,choices
+variant,custom,swatch,Swatch,color,Shade colour for swatches on product and collection pages.,
+product,custom,size,Size,single_line_text_field,,
+product,custom,key_ingredients,Key ingredients,list.single_line_text_field,,
+product,custom,how_to_use,How to use,multi_line_text_field,,
+product,custom,finish,Finish,single_line_text_field,,Sheer; Satin; Dewy; Matte; Glossy; Natural
+product,custom,skin_type,Skin type,list.single_line_text_field,,All skin types; Dry; Oily; Combination; Sensitive
+product,custom,vegan,Vegan,boolean,,

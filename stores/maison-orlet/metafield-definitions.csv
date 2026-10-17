@@ -1,0 +1,8 @@
+owner,namespace,key,name,type,description,choices
+product,custom,made_in,Made in,single_line_text_field,,
+product,custom,composition,Composition,single_line_text_field,,
+product,custom,care,Care,multi_line_text_field,,
+product,custom,fit,Fit,single_line_text_field,,Oversized; Relaxed; Regular; Slim
+product,custom,edition_size,Edition size,number_integer,Number of pieces made in this run.,
+product,custom,maker,Made with,single_line_text_field,,
+product,custom,colour_siblings,Also available in,list.single_line_text_field,Handles of the same design in its other colourways.,
