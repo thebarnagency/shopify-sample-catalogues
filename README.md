@@ -43,6 +43,16 @@ No AI assistant? `products.csv` imports on its own, and `products-rich.csv`,
 `collections.csv`, `menus.csv` and `metafield-definitions.csv` hold everything else for setting
 up by hand.
 
+## Screenshots
+
+Each store straight after a `products.csv` import on Shopify's Horizon theme, before any
+collections or menus are set up.
+
+| Maison Orlet | Lune Atelier |
+| --- | --- |
+| ![Maison Orlet product grid: shirts on mannequins, a leather tote and trousers on hangers, with a sold-out badge](https://github-files.thebarnagency.co.uk/images/screenshots/v0.1/maison-orlet-collection.webp) | ![Lune Atelier product grid: blush, concealer and lip tint packaging on pastel backgrounds, with a sale badge](https://github-files.thebarnagency.co.uk/images/screenshots/v0.1/lune-atelier-collection.webp) |
+| ![Maison Orlet product page: an oxblood tiered dress, front, back and fabric close-up, with Italian sizes](https://github-files.thebarnagency.co.uk/images/screenshots/v0.1/maison-orlet-product.webp) | ![Lune Atelier product page: a lip tint with a colour swatch, packshot and twelve shades, one sold out](https://github-files.thebarnagency.co.uk/images/screenshots/v0.1/lune-atelier-product.webp) |
+
 ## Images
 
 Every image is a product shot, still life or colour swatch. There are no people and no
