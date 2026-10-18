@@ -17,7 +17,7 @@ Lune Atelier is a fictional beauty store: 40 products, 231 variants, 8 collectio
 - Use an **empty development store**. The import adds products, collections and menus.
 - Set the store currency to **GBP** under **Settings > General > Store defaults**, so prices import as written.
 - Connect an AI assistant to the store through an MCP server that can read and write products, metafield definitions, collections and navigation menus. This guide was tested with Claude Code and Shopify's plugin for it, which signs in to the store through Shopify CLI when the first prompt asks it to connect.
-- Every image is hosted on this project's GitHub Release, so Shopify fetches the pictures while it imports the CSV. You need no image files on your computer.
+- Every image is hosted on this project's GitHub Pages, so Shopify fetches the pictures while it imports the CSV. You need no image files on your computer.
 
 Run the steps in order. Each prompt is written to be pasted as is; attach or paste the file it names.
 
