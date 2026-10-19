@@ -1,0 +1,22 @@
+menu_handle,menu_title,position,title,link_type,target
+main-menu,Main menu,1,New In,collection,new-in
+main-menu,Main menu,2,Brands,url,#
+main-menu,Main menu,2.1,Brickline,collection,brand-brickline
+main-menu,Main menu,2.2,Corvo Workwear,collection,brand-corvo-workwear
+main-menu,Main menu,2.3,Fellwick Outdoor,collection,brand-fellwick-outdoor
+main-menu,Main menu,2.4,Moorfoot,collection,brand-moorfoot
+main-menu,Main menu,2.5,Sable Run,collection,brand-sable-run
+main-menu,Main menu,2.6,Tessel Studio,collection,brand-tessel-studio
+main-menu,Main menu,3,Clothing,url,#
+main-menu,Main menu,3.1,Jackets,collection,jackets
+main-menu,Main menu,3.2,Shirts,collection,shirts
+main-menu,Main menu,3.3,T-Shirts,collection,t-shirts
+main-menu,Main menu,3.4,Knitwear,collection,knitwear
+main-menu,Main menu,3.5,Trousers,collection,trousers
+main-menu,Main menu,4,Shoes,collection,shoes
+main-menu,Main menu,5,Accessories,collection,accessories
+main-menu,Main menu,6,Sale,collection,sale
+footer,Footer menu,1,Responsible Production,collection,responsible-production
+footer,Footer menu,2,Shop all,catalog,
+footer,Footer menu,3,Search,search,
+footer,Footer menu,4,Your Privacy Choices,url,/pages/data-sharing-opt-out

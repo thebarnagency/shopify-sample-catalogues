@@ -1,0 +1,14 @@
+menu_handle,menu_title,position,title,link_type,target
+main-menu,Main menu,1,New Arrivals,collection,new-arrivals
+main-menu,Main menu,2,Clothing,url,#
+main-menu,Main menu,2.1,Shirts,collection,shirts
+main-menu,Main menu,2.2,Outerwear,collection,outerwear
+main-menu,Main menu,2.3,Trousers,collection,trousers
+main-menu,Main menu,2.4,Knitwear,collection,knitwear
+main-menu,Main menu,3,Accessories,collection,accessories
+main-menu,Main menu,4,The Coastline Capsule,collection,coastline-capsule
+main-menu,Main menu,5,Preloved,collection,preloved
+main-menu,Main menu,6,Last Call,collection,last-call
+footer,Footer menu,1,Shop all,catalog,
+footer,Footer menu,2,Search,search,
+footer,Footer menu,3,Your Privacy Choices,url,/pages/data-sharing-opt-out

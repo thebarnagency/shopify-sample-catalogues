@@ -10,7 +10,11 @@ guide and a brand brief per store, with the images hosted on this repo's GitHub 
 | Store | Vertical | Products | Variants | Images | Prices | Colour layout |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Lune Atelier](stores/lune-atelier/BRAND.md) | beauty | 40 | 231 | 287 | £10–£85 | colour as an option |
+| [Popwire](stores/popwire/BRAND.md) | fast fashion | 40 | 699 | 173 | £4–£65 | colour as an option |
 | [Maison Orlet](stores/maison-orlet/BRAND.md) | high fashion | 40 | 155 | 120 | £160–£2,600 | one product per colour |
+| [Ottavina](stores/ottavina/BRAND.md) | high fashion | 40 | 176 | 120 | £220–£2,400 | one product per colour |
+| [Fernhollow Outfitters](stores/fernhollow-outfitters/BRAND.md) | menswear | 40 | 376 | 172 | £25–£495 | colour as an option |
+| [Brickline Supply](stores/brickline-supply/BRAND.md) | streetwear | 40 | 242 | 113 | £18–£320 | one product per colour |
 
 Each store lives in `stores/<store>/`:
 

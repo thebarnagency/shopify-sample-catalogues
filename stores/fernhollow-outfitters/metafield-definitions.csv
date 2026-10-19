@@ -1,0 +1,10 @@
+owner,namespace,key,name,type,description,choices
+product,custom,fabric_weight,Fabric weight,single_line_text_field,,
+product,custom,composition,Composition,single_line_text_field,,
+product,custom,made_in,Made in,single_line_text_field,,
+product,custom,care,Care,multi_line_text_field,,
+product,custom,fit_notes,Fit,single_line_text_field,,Slim; Regular; Relaxed; Boxy
+product,custom,capsule,Capsule,single_line_text_field,The seasonal capsule this piece was released in.,Coastline; Moorland; Harbour; Archive
+product,custom,repairs,Free repairs,boolean,Covered by the free repairs service.,
+product,custom,condition,Condition,single_line_text_field,Preloved pieces only.,As new; Good; Well loved
+product,custom,colour_siblings,Also available in,list.single_line_text_field,Handles of the same design in its other colourways (split-colours files only).,

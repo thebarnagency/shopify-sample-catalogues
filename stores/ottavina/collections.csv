@@ -1,0 +1,11 @@
+handle,title,kind,match,rules,sort_order,description
+new-in,New In,smart,all,TAG EQUALS new-in,created_desc,
+dresses,Dresses,manual,,,created_desc,
+tailoring,Tailoring,manual,,,created_desc,
+knitwear,Knitwear,manual,,,created_desc,
+skirts,Skirts,manual,,,created_desc,
+coats-jackets,Coats & Jackets,manual,,,created_desc,
+bags-jewellery,Bags & Jewellery,manual,,,created_desc,
+wedding-guest,Wedding Guest,smart,all,TAG EQUALS wedding-guest,created_desc,"Dresses and tailoring for ceremonies, receptions and the morning after."
+made-to-measure,Made to Measure,smart,all,TAG EQUALS made-to-measure,created_desc,Pieces the Marylebone salon can also cut to your measurements.
+evening,Evening,smart,any,TAG EQUALS evening; TYPE EQUALS Gowns,created_desc,

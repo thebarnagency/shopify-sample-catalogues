@@ -1,0 +1,16 @@
+menu_handle,menu_title,position,title,link_type,target
+main-menu,Main menu,1,New In,collection,new-in
+main-menu,Main menu,2,Clothing,url,#
+main-menu,Main menu,2.1,Dresses,collection,dresses
+main-menu,Main menu,2.2,Tailoring,collection,tailoring
+main-menu,Main menu,2.3,Knitwear,collection,knitwear
+main-menu,Main menu,2.4,Skirts,collection,skirts
+main-menu,Main menu,2.5,Coats & Jackets,collection,coats-jackets
+main-menu,Main menu,3,Bags & Jewellery,collection,bags-jewellery
+main-menu,Main menu,4,Occasions,url,#
+main-menu,Main menu,4.1,Wedding Guest,collection,wedding-guest
+main-menu,Main menu,4.2,Evening,collection,evening
+main-menu,Main menu,5,Made to Measure,collection,made-to-measure
+footer,Footer menu,1,Shop all,catalog,
+footer,Footer menu,2,Search,search,
+footer,Footer menu,3,Your Privacy Choices,url,/pages/data-sharing-opt-out

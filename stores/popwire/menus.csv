@@ -1,0 +1,18 @@
+menu_handle,menu_title,position,title,link_type,target
+main-menu,Main menu,1,NEW IN,collection,new-in
+main-menu,Main menu,2,Dresses,collection,dresses
+main-menu,Main menu,3,Tops,collection,tops
+main-menu,Main menu,4,Co-ords,collection,co-ords
+main-menu,Main menu,5,Jeans & Trousers,collection,jeans-trousers
+main-menu,Main menu,6,Going Out,collection,going-out
+main-menu,Main menu,7,Petite & Tall,url,#
+main-menu,Main menu,7.1,Petite,collection,petite
+main-menu,Main menu,7.2,Tall,collection,tall
+main-menu,Main menu,8,Accessories,collection,accessories
+main-menu,Main menu,9,SALE,url,#
+main-menu,Main menu,9.1,All sale,collection,sale
+main-menu,Main menu,9.2,Under £15,collection,under-15
+footer,Footer menu,1,Selling Fast,collection,selling-fast
+footer,Footer menu,2,Shop all,catalog,
+footer,Footer menu,3,Search,search,
+footer,Footer menu,4,Your Privacy Choices,url,/pages/data-sharing-opt-out

@@ -1,0 +1,10 @@
+handle,title,kind,match,rules,sort_order,description
+new-arrivals,New Arrivals,smart,all,TAG EQUALS new-arrivals,created_desc,
+shirts,Shirts,manual,,,created_desc,
+outerwear,Outerwear,manual,,,created_desc,
+trousers,Trousers,manual,,,created_desc,
+knitwear,Knitwear,manual,,,created_desc,
+accessories,Accessories,manual,,,created_desc,
+preloved,Preloved,manual,,,created_desc,"Returned, repaired and rewaxed in our workshop. One of each, so be quick."
+last-call,Last Call,smart,all,IS_PRICE_REDUCED EQUALS true,price_asc,"The last few of past seasons, reduced."
+coastline-capsule,The Coastline Capsule,smart,all,TAG EQUALS capsule-coastline,created_desc,

@@ -1,0 +1,7 @@
+owner,namespace,key,name,type,description,choices
+product,custom,fabric_weight,Fabric weight,single_line_text_field,,
+product,custom,made_in,Made in,single_line_text_field,,
+product,custom,care,Care,multi_line_text_field,,
+product,custom,fit,Fit,single_line_text_field,,Boxy; Relaxed; Regular; Slim; Tapered
+product,custom,style,Shop by style,single_line_text_field,,Contemporary; Modern Outdoor; Workwear; Running
+product,custom,colour_siblings,Also available in,list.single_line_text_field,Handles of the same design in its other colourways.,

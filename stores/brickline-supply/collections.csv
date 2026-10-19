@@ -1,0 +1,17 @@
+handle,title,kind,match,rules,sort_order,description
+new-in,New In,smart,all,TAG EQUALS new-in,created_desc,
+jackets,Jackets,manual,,,created_desc,
+trousers,Trousers,manual,,,created_desc,
+knitwear,Knitwear,manual,,,created_desc,
+t-shirts,T-Shirts,manual,,,created_desc,
+shirts,Shirts,manual,,,created_desc,
+shoes,Shoes,manual,,,created_desc,
+accessories,Accessories,manual,,,created_desc,
+sale,Sale,smart,all,IS_PRICE_REDUCED EQUALS true,price_asc,
+brand-brickline,Brickline,smart,all,VENDOR EQUALS Brickline,created_desc,"The house label. Basics we couldn't find anywhere else, made close to home."
+brand-fellwick-outdoor,Fellwick Outdoor,smart,all,VENDOR EQUALS Fellwick Outdoor,created_desc,
+brand-corvo-workwear,Corvo Workwear,smart,all,VENDOR EQUALS Corvo Workwear,created_desc,
+brand-sable-run,Sable Run,smart,all,VENDOR EQUALS Sable Run,created_desc,
+brand-tessel-studio,Tessel Studio,smart,all,VENDOR EQUALS Tessel Studio,created_desc,
+brand-moorfoot,Moorfoot,smart,all,VENDOR EQUALS Moorfoot,created_desc,
+responsible-production,Responsible Production,smart,all,TAG EQUALS responsible,created_desc,"Recycled, organic or made within 100 miles of the shop."
