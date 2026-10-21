@@ -57,6 +57,16 @@ collections or menus are set up.
 | ![Maison Orlet product grid: shirts on mannequins, a leather tote and trousers on hangers, with a sold-out badge](https://github-files.thebarnagency.co.uk/images/screenshots/v0.1/maison-orlet-collection.webp) | ![Lune Atelier product grid: blush, concealer and lip tint packaging on pastel backgrounds, with a sale badge](https://github-files.thebarnagency.co.uk/images/screenshots/v0.1/lune-atelier-collection.webp) |
 | ![Maison Orlet product page: an oxblood tiered dress, front, back and fabric close-up, with Italian sizes](https://github-files.thebarnagency.co.uk/images/screenshots/v0.1/maison-orlet-product.webp) | ![Lune Atelier product page: a lip tint with a colour swatch, packshot and twelve shades, one sold out](https://github-files.thebarnagency.co.uk/images/screenshots/v0.1/lune-atelier-product.webp) |
 
+| Ottavina | Fernhollow Outfitters |
+| --- | --- |
+| ![Ottavina product grid: silk dresses, a velvet opera coat, a wool coat and a blazer on dress forms in warm daylight, with sale and sold-out badges](https://github-files.thebarnagency.co.uk/images/screenshots/v0.2/ottavina-collection.webp) | ![Fernhollow Outfitters product grid: preloved chore coats, field jackets and overshirts on dress forms, sizes in the titles, with sale prices](https://github-files.thebarnagency.co.uk/images/screenshots/v0.2/fernhollow-outfitters-collection.webp) |
+| ![Ottavina product page: a bottle-green wool crepe blazer, front, back and lapel close-up, with Italian sizes, one sold out](https://github-files.thebarnagency.co.uk/images/screenshots/v0.2/ottavina-product.webp) | ![Fernhollow Outfitters product page: an ecru canvas chore coat with a cord collar, front, folded and close-up, with sizes and two colours](https://github-files.thebarnagency.co.uk/images/screenshots/v0.2/fernhollow-outfitters-product.webp) |
+
+| Brickline Supply | Popwire |
+| --- | --- |
+| ![Brickline Supply product grid: boxy tees, a half-zip sweat and a long sleeve tee on dress forms, with sale badges](https://github-files.thebarnagency.co.uk/images/screenshots/v0.2/brickline-supply-collection.webp) | ![Popwire product grid: a baby tee, jeans on hangers and claw clips, with sale prices](https://github-files.thebarnagency.co.uk/images/screenshots/v0.2/popwire-collection.webp) |
+| ![Brickline Supply product page: a clay packable liner jacket, front, back and pocket close-up, with sizes S to XXL](https://github-files.thebarnagency.co.uk/images/screenshots/v0.2/brickline-supply-product.webp) | ![Popwire product page: a hot-pink satin wrap co-ord top, front, back and neckline close-up, with two colours and UK sizes, one sold out](https://github-files.thebarnagency.co.uk/images/screenshots/v0.2/popwire-product.webp) |
+
 ## Images
 
 Every image is a product shot, still life or colour swatch. There are no people and no
