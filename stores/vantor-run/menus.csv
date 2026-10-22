@@ -1,0 +1,15 @@
+menu_handle,menu_title,position,title,link_type,target
+main-menu,Main menu,1,New In,collection,new-in
+main-menu,Main menu,2,Shoes,url,#
+main-menu,Main menu,2.1,Road Running,collection,road-running
+main-menu,Main menu,2.2,Trail Running,collection,trail-running
+main-menu,Main menu,2.3,Racing,collection,racing
+main-menu,Main menu,3,Mens,collection,mens
+main-menu,Main menu,4,Womens,collection,womens
+main-menu,Main menu,5,Kit,url,#
+main-menu,Main menu,5.1,Apparel,collection,apparel
+main-menu,Main menu,5.2,Accessories,collection,accessories
+main-menu,Main menu,6,Outlet,collection,outlet
+footer,Footer menu,1,Shop all,catalog,
+footer,Footer menu,2,Search,search,
+footer,Footer menu,3,Your Privacy Choices,url,/pages/data-sharing-opt-out

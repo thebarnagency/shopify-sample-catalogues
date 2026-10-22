@@ -1,0 +1,10 @@
+owner,namespace,key,name,type,description,choices
+product,custom,made_in,Made in,single_line_text_field,,
+product,custom,metal,Metal,single_line_text_field,,
+product,custom,stones,Stones,single_line_text_field,,
+product,custom,care,Care,multi_line_text_field,,
+product,custom,personalisation,Personalisation,boolean,The product can be engraved; the theme shows a text input for the inscription.,
+product,custom,personalisation_label,Personalisation label,single_line_text_field,"Label for the inscription input, for example ""Initials"".",
+product,custom,personalisation_max_chars,Personalisation maximum characters,number_integer,,
+variant,custom,swatch,Swatch,color,Enamel colour for swatches on product and collection pages.,
+product,custom,colour_siblings,Also available in,list.single_line_text_field,Handles of the same design in its other gold colours.,

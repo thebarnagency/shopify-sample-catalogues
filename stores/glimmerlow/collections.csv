@@ -1,0 +1,9 @@
+handle,title,kind,match,rules,sort_order,description
+new-in,New In,smart,all,TAG EQUALS new-in,created_desc,
+earrings,Earrings,manual,,,created_desc,
+piercing-jewellery,Piercing Jewellery,manual,,,created_desc,"Implant-grade studs for new and healed piercings, from the lobe to the conch."
+necklaces,Necklaces,manual,,,created_desc,
+bracelets,Bracelets,manual,,,created_desc,
+rings,Rings,manual,,,created_desc,
+charms,Charms,manual,,,created_desc,Little charms to clip onto any chain and add to as the story grows.
+gifts,Gifts,smart,any,TAG EQUALS gift; TYPE EQUALS Gift Sets,created_desc,

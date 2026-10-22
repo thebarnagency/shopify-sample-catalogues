@@ -1,0 +1,10 @@
+handle,title,kind,match,rules,sort_order,description
+new-in,New In,smart,all,TAG EQUALS new-in,created_desc,
+bracelets,Bracelets,manual,,,created_desc,
+necklaces,Necklaces,manual,,,created_desc,
+earrings,Earrings,manual,,,created_desc,
+rings,Rings,manual,,,created_desc,
+enamel-charms,Enamel Charms,manual,,,created_desc,"Hammered gold charms inlaid with kiln-fired enamel, in the colour that means something to you."
+high-jewellery,High Jewellery,smart,all,TYPE EQUALS High Jewellery,created_desc,One-of-a-kind pieces from the Florence workshop.
+personalise,Personalise,smart,all,TAG EQUALS personalise,created_desc,"Pieces we engrave by hand with initials, dates or a word of your choosing."
+gifts,Gifts,smart,all,TAG EQUALS gift,created_desc,

@@ -1,0 +1,8 @@
+owner,namespace,key,name,type,description,choices
+product,custom,made_in,Made in,single_line_text_field,,
+product,custom,heel_height_mm,Heel height (mm),number_integer,,
+product,custom,lining,Lining,single_line_text_field,,
+product,custom,sole,Sole,single_line_text_field,,
+product,custom,fit,Fit,single_line_text_field,,True to size; Size up half a size; Narrow fit
+product,custom,care,Care,multi_line_text_field,,
+product,custom,colour_siblings,Also available in,list.single_line_text_field,Handles of the same style in its other colours and materials.,

@@ -1,0 +1,13 @@
+menu_handle,menu_title,position,title,link_type,target
+main-menu,Main menu,1,New In,collection,new-in
+main-menu,Main menu,2,Shoes,url,#
+main-menu,Main menu,2.1,Heels,collection,heels
+main-menu,Main menu,2.2,Mules,collection,mules
+main-menu,Main menu,2.3,Flats,collection,flats
+main-menu,Main menu,2.4,Boots,collection,boots
+main-menu,Main menu,2.5,Sneakers,collection,sneakers
+main-menu,Main menu,3,Bridal,collection,bridal
+main-menu,Main menu,4,Handbags,collection,handbags
+footer,Footer menu,1,Shop all,catalog,
+footer,Footer menu,2,Search,search,
+footer,Footer menu,3,Your Privacy Choices,url,/pages/data-sharing-opt-out

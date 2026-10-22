@@ -1,0 +1,10 @@
+handle,title,kind,match,rules,sort_order,description
+new-in,New In,smart,all,TAG EQUALS new-in,created_desc,
+road-running,Road Running,manual,,,created_desc,
+trail-running,Trail Running,manual,,,created_desc,
+racing,Racing,manual,,,created_desc,
+mens,Mens,smart,all,TAG EQUALS mens,created_desc,
+womens,Womens,smart,all,TAG EQUALS womens,created_desc,
+apparel,Apparel,manual,,,created_desc,
+accessories,Accessories,manual,,,created_desc,
+outlet,Outlet,smart,all,TAG EQUALS outlet,created_desc,"Last season's colourways, same shoes, lower prices."

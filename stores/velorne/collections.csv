@@ -1,0 +1,9 @@
+handle,title,kind,match,rules,sort_order,description
+new-in,New In,smart,all,TAG EQUALS new-in,created_desc,
+heels,Heels,manual,,,created_desc,
+mules,Mules,manual,,,created_desc,
+flats,Flats,manual,,,created_desc,
+boots,Boots,manual,,,created_desc,
+sneakers,Sneakers,manual,,,created_desc,
+bridal,Bridal,smart,all,TAG EQUALS bridal,created_desc,"Satin and cream leather for the aisle and, more importantly, the dancing after."
+handbags,Handbags,manual,,,created_desc,

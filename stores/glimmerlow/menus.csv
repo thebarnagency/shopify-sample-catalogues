@@ -1,0 +1,13 @@
+menu_handle,menu_title,position,title,link_type,target
+main-menu,Main menu,1,New In,collection,new-in
+main-menu,Main menu,2,Shop,url,#
+main-menu,Main menu,2.1,Earrings,collection,earrings
+main-menu,Main menu,2.2,Necklaces,collection,necklaces
+main-menu,Main menu,2.3,Bracelets,collection,bracelets
+main-menu,Main menu,2.4,Rings,collection,rings
+main-menu,Main menu,2.5,Charms,collection,charms
+main-menu,Main menu,3,Piercing Jewellery,collection,piercing-jewellery
+main-menu,Main menu,4,Gifts,collection,gifts
+footer,Footer menu,1,Shop all,catalog,
+footer,Footer menu,2,Search,search,
+footer,Footer menu,3,Your Privacy Choices,url,/pages/data-sharing-opt-out

@@ -1,0 +1,6 @@
+owner,namespace,key,name,type,description,choices
+product,custom,plating,Plating,single_line_text_field,,18k gold plating; Rhodium plating; 18k gold and rhodium plating; None
+product,custom,care,Care,multi_line_text_field,,
+product,custom,nickel_free,Nickel free,boolean,,
+product,custom,stack_with,Stack with,single_line_text_field,Where it sits in a curated ear or a stack.,Lobe; Upper lobe; Helix; Flat; Conch; Neck; Wrist; Finger
+product,custom,colour_siblings,Also available in,list.single_line_text_field,Handles of the same design in its other finishes (split-colours CSV only).,
